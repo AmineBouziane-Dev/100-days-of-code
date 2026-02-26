@@ -1,0 +1,7 @@
+print(len("Hello"))
+print("Hello"[4])
+print(100_000+123)
+print(100.5)
+print(True)
+print(False)
+print("Abbey Road"[7])
